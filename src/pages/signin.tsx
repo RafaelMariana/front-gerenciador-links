@@ -5,7 +5,7 @@ export default function SignIn() {
     <>
     <div>
       <h1>Sign In</h1>
-      <Button className="button">Logar</Button>
+      <Button>Logar</Button>
     </div>
     </>
   )
